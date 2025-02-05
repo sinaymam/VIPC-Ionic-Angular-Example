@@ -1,0 +1,7 @@
+{
+  "name": "VIP-Connect-iOS-Ionic-Example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
